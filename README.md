@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SharpSX
-- 👀 I’m currently interested in C#
-- 🌱 I’m currently learning Java
+- 👀 I’m currently interested in Java
 - 📫 If you want to collaborate with me, message me on Discord SharpSX#0001
 
 <!---
